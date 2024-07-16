@@ -2,7 +2,7 @@ import { useState } from 'react'
 import './App.css'
 import { BrowserRouter ,  Routes , Route } from "react-router-dom";
 import { Home } from "./Components/Home";
-import { SingleMovie } from "./Components/SingleMovie";
+import  SingleMovie  from "./Components/SingleMovie";
 import { Error } from "./Components/Error";
 
 
